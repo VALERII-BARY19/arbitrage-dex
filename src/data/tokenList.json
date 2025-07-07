@@ -32,7 +32,8 @@
     }
   },
   "timestamp": "2022-01-19T16:04:39+00:00",
-  "tokens": [{
+  "tokens": [
+    {
       "chainId": 1313161554,
       "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56",
       "symbol": "HAK",
